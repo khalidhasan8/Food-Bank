@@ -82,10 +82,10 @@ span{
 .soup{
     margin-left: 300px;
     padding: 8px 10px;
-    background-color: silver;
+    background-color: white;
     border-radius: 10px;
     text-align: justify;
-    Box-shadow: 0 0 10px grey ;
+    Box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
 }
 .soup img{
     height: 200px;
@@ -95,10 +95,10 @@ span{
 .vegitable{
     margin-left: 200px;
     padding: 8px 10px;
-    background-color: silver;
+    background-color: white;
     border-radius: 10px;
     text-align: justify;
-    Box-shadow: 0 0 10px grey ;
+    Box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
 }
 .vegitable img{
     height: 200px;
@@ -109,10 +109,10 @@ span{
     padding: 8px 10px;
     margin-right: 400px;
     margin-left: 200px;
-    background-color: silver;
+    background-color: white;
     border-radius: 10px;
     text-align: justify;
-    Box-shadow: 0 0 10px grey ;
+    Box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
 }
 .salat img{
     height: 200px;
