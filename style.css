@@ -1,0 +1,136 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 ;
+    overflow-x: hidden
+}
+.intro{
+    height: 1000px;
+    background-image: url(images/burger.png);
+    background-repeat: no-repeat;
+}
+.display1{
+    display: flex;
+    background-color: bisque;
+}
+.shape1{
+    width: 50%;
+    margin: 40px 5px auto 60px;
+}
+.shape1 h1{
+    font-size: 50px;
+}
+.shape1 p{
+    line-height: 32px;
+    margin-bottom: 30px;
+    text-align: justify;
+
+}
+.shape1 img{
+    width: 80%;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+span{
+    color: rgb(241, 26, 10);
+}
+.order-link{
+    margin-bottom: 200px;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(247, 105, 11),rgb(255, 117, 4));
+    padding: 12px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+}
+.display2{
+    display: flex;
+    margin-bottom: 40px;
+    
+    background-image: url(images/frame.jpg);
+}
+.shape2{
+    width: 50%;
+    margin: 80px 5px 0px 60px;
+}
+.shape2 h3{
+    margin-top: 120px;
+    font-size: 35px;
+    color: grey;
+}
+.shape2 p{
+    margin-top: 45px;
+    margin-bottom: 50px;
+    margin-right: 120px;
+    line-height: 30px;
+    text-align: justify;
+}
+.contact-link{
+    
+    text-decoration: none;
+    background-image: linear-gradient(rgb(247, 105, 11),rgb(255, 117, 4));
+    padding: 12px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+}
+.extra{
+    text-align: center;
+}
+.all-recipi{
+    display: flex;
+    width: 33.3px;
+    margin-bottom: 30px;
+    
+    
+    
+}
+.soup{
+    margin-left: 300px;
+    padding: 8px 10px;
+    background-color: silver;
+    border-radius: 10px;
+    text-align: justify;
+    Box-shadow: 0 0 10px grey ;
+    
+}
+.soup img{
+    height: 200px;
+    width: 280px;
+    border-radius: 10px;
+}
+.vegitable{
+    margin-left: 200px;
+    padding: 8px 10px;
+    background-color: silver;
+    border-radius: 10px;
+    text-align: justify;
+    Box-shadow: 0 0 10px grey ;
+    
+}
+.vegitable img{
+    height: 200px;
+    width: 280px;
+    border-radius: 10px;
+}
+.salat img{
+    height: 200px;
+    width: 280px;
+    border-radius: 10px;
+}
+.salat{
+    padding: 8px 10px;
+    margin-right: 400px;
+    margin-left: 200px;
+    background-color: silver;
+    border-radius: 10px;
+    text-align: justify;
+    Box-shadow: 0 0 10px grey ;
+}
+.foot{
+    background-color: black;
+    color: silver;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+
