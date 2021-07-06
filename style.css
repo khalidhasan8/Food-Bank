@@ -23,7 +23,6 @@ body{
     line-height: 32px;
     margin-bottom: 30px;
     text-align: justify;
-
 }
 .shape1 img{
     width: 80%;
@@ -65,7 +64,6 @@ span{
     text-align: justify;
 }
 .contact-link{
-    
     text-decoration: none;
     background-image: linear-gradient(rgb(247, 105, 11),rgb(255, 117, 4));
     padding: 12px 20px;
@@ -80,9 +78,6 @@ span{
     display: flex;
     width: 33.3px;
     margin-bottom: 30px;
-    
-    
-    
 }
 .soup{
     margin-left: 300px;
@@ -91,7 +86,6 @@ span{
     border-radius: 10px;
     text-align: justify;
     Box-shadow: 0 0 10px grey ;
-    
 }
 .soup img{
     height: 200px;
@@ -105,14 +99,8 @@ span{
     border-radius: 10px;
     text-align: justify;
     Box-shadow: 0 0 10px grey ;
-    
 }
 .vegitable img{
-    height: 200px;
-    width: 280px;
-    border-radius: 10px;
-}
-.salat img{
     height: 200px;
     width: 280px;
     border-radius: 10px;
@@ -126,11 +114,17 @@ span{
     text-align: justify;
     Box-shadow: 0 0 10px grey ;
 }
+.salat img{
+    height: 200px;
+    width: 280px;
+    border-radius: 10px;
+}
 .foot{
     background-color: black;
     color: silver;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
     padding-top: 5px;
     text-align: center;
+    margin-top: 5px;
 }
 
