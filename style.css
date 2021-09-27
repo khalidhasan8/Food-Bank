@@ -7,6 +7,8 @@ body{
     height: 1000px;
     background-image: url(images/burger.png);
     background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
 }
 .display1{
     display: flex;
@@ -127,4 +129,3 @@ span{
     text-align: center;
     margin-top: 5px;
 }
-
